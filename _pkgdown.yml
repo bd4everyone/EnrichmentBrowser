@@ -1,0 +1,7 @@
+title: EnrichmentBrowser
+url: https://waldronlab.github.io/EnrichmentBrowser
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
